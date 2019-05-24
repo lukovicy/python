@@ -3,9 +3,9 @@
 # E-mail: lukovicy@gmail.com
 
 ### OVERVIEW
-# This simple piece of code is writen for practicing purposes, where I wanted to see what are the enviroment variables that ubuntu 18.04 LTS uses.
+# This simple piece of code is writen for practicing purposes, where I wanted to see what are the enviroment variables that are used in Ubuntu 18.04 LTS.
 # There are two ways to acomplish that, for which I'm using bash and python.
-# NOTE: Bash is being used throw Python!
+# NOTE: Bash is being used through Python!
 
 # Adding necessary modules
 import os
