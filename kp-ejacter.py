@@ -28,7 +28,7 @@ linkovi = re.findall(r'(\/photos\/oglasi\/.*jpg\")', data.text)
 # path = input("Gde zelis da se cuvaju slike? ")
 path = "/home/" + korisnik + "/Downloads/" + str(id_oglasa) + "/"
 
-# postavljanje count brojaca na 1
+# postavljanje count brojaca na 1!
 count = 1
 
 #uslov ako postoje linkovi (varijabla)
